@@ -2,6 +2,12 @@
 
 Kia ora koutou and haere mai to my GitHub page.
 
+## Statistics overview
+
+![ZZ-Cat's Stats](https://github-readme-stats.vercel.app/api?username=ZZ-Cat&theme=default&show_icons=true&hide_border=false&count_private=false)  
+![ZZ-Cat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZ-Cat&theme=default&show_icons=true&hide_border=false&layout=compact)  
+![ZZ-Cat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZZ-Cat&theme=default&hide_border=false)
+
 ## About me
 
 I am an independent firmware developer for free and open source embedded systems.  
