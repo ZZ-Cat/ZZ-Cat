@@ -41,6 +41,11 @@ Python also sees its uses as rapid prototyping, if I want to sketch up ideas and
 Having my start with the Arduino IDE in 2013, as this is what introduced me to C++, I now prefer to use PlatformIO due to its streamlined integrations and package managements _without_ being locked to one vendor over another.  
 However, this may change as I wind down my C++ projects and start creating newer embedded projects with Rust and Python.
 
+### Operating system
+
+As if I wasn't feeding into the stereotype hard enough... I happen to be a Linux user. =^/.~=  
+Pop!_OS, specifically. Been using this since 25th of February, 2024, and it's been amazing for me.
+
 ## Statistics overview
 
 ![ZZ-Cat's Stats](https://github-readme-stats.vercel.app/api?username=ZZ-Cat&theme=default&show_icons=true&hide_border=false&count_private=false)  
