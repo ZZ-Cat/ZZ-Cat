@@ -17,6 +17,8 @@ My languages of choice are ordered with my most commonly used language first:
 4. Lua
 5. Rust
 
+C++ is my dominant language of choice when it comes to writing firmware for embedded systems, and I have been using C++ since 2013.  
+For me, it _is_ a legacy language that I am branching away from in favour of learning memory-safe languages. For my existing C++ projects (suc as CRSF for Arduino) are still actively being maintained unless I have written otherwise in a particular repository.
 
 ### Development Environments
 
