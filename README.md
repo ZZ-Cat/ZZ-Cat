@@ -14,6 +14,8 @@ My languages of choice are ordered with my most commonly used language first:
 1. C++
 2. Rust
 3. Python
+4. Expression2
+5. Lua
 
 C++ is the language I have spent the most time with since 2013. It is now a legacy language for me, and over time I amm discontinuing its use in my projects in favour of Rust and Python.  
 Rust is an _extremely new_ language to me. However, my newer projects will be built with Rust instead of C++.  
